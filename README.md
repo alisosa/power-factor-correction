@@ -16,6 +16,8 @@ Si el ejercicio pide otra cosa o se desea cambiar el factor de potencia objetivo
 deseado y cambiarlas en la función.
 
 En el main vemos ejemplos de llamadas a la función.
+Si se desea tambien puede utilizarse el repo en replit para correrlo sin descargar nada.
+- [Link replit](https://replit.com/@AliSosa/Entregable3ModEl#Calculator.java) 
 
 ![Logo](https://ucu.edu.uy/sites/all/themes/univer/images/logo_es.png)
 
