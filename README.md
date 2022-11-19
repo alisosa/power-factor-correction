@@ -8,7 +8,7 @@ Aplicación java con el fin de calcular un rango de capacitores para corregir el
 Creando una instancia de la clase Calculator, tenemos disponible una función llamada calculateC.
 
 Esta función sirve para calcular el valor de capacitancia necesario para bajar el factor de potencia a 0.95.
-A esta funcion debe llamarse con los parametros: potencia, factor de potencia y potencia reactiva (q).
+A esta funcion debe llamarse con los parametros: potencia activa, factor de potencia actual y potencia reactiva (q).
 
 Podemos ver el valor de las variables w y tan_18. Son la frecuencia y angulo tipico de los ejercicios resueltos en clase. 
 
