@@ -1,7 +1,7 @@
 
 # FP Corrector - Modelado Eléctrico 🔌
 
-Aplicación java para calcular un rango de capacitores que para corregir el factor de potencia.
+Aplicación java con el fin de calcular un rango de capacitores para corregir el factor de potencia.
 
 ## Como utilizar el repo 🤔💭
 
