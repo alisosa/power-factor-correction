@@ -1,9 +1,9 @@
 
-# FP Corrector
+# FP Corrector - Modelado Eléctrico 🔌
 
 Aplicación java para calcular un rango de capacitores que para corregir el factor de potencia.
 
-## Como utilizar el repo
+## Como utilizar el repo 🤔💭
 
 Creando una instancia de la clase Calculator, tenemos disponible una función llamada calculateC.
 
@@ -22,7 +22,7 @@ Si se desea tambien puede utilizarse el repo en replit para correrlo sin descarg
 ![Logo](https://ucu.edu.uy/sites/all/themes/univer/images/logo_es.png)
 
 
-## Authors
+## Authors 👨‍💻
 
 - [@alisosa](https://www.github.com/alisosa) 
 ali.sosa@correo.ucu.edu.uy
